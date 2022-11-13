@@ -4,7 +4,7 @@
   "engines": {
     "node": "6.11.1"
   },
-  "homepage": "https://Stephooooo.github.io/kinya-portfolio",
+  "homepage": "https://Stephooooo.github.io/",
   "private": false,
   "dependencies": {
     "@headlessui/react": "^1.7.4",
