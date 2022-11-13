@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
 
-    <BrowserRouter basename="/">
+    <BrowserRouter>
     <Routes>
     <Route>
     <Route path="/" element ={<Home/>} />
