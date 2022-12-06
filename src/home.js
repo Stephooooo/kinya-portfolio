@@ -12,7 +12,7 @@ function Home() {
     <div className='md:columns-1 lg:columns-2 mt-10'> 
 
     <div >
-    <img src="../img/kiki.png" alt="ME" className='h-100 rounded-md mt-18'/>
+    <img src="../img/Kiki.png" alt="ME" className='h-100 rounded-md mt-18'/>
   </div>
 
   <div className='pt-10 bg-gradient-to-tl from-sky-400 to-sky-200 rounded-md '>
